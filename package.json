@@ -6,7 +6,7 @@
 	"scripts": {
 		"start": "node myApp.js"
 	},
-	"dependencies": {
+	"require": {
 		"express": "^4.14.0",
 		"helmet": "^3.21.3"
 	},
